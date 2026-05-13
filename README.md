@@ -1,5 +1,6 @@
 AI Student at Oxford Brookes University.
-\nLooking for 2026-27 software/AI placement.
+
+Looking for 2026-27 software/AI placement.
 
 
 
